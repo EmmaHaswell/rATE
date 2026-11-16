@@ -1,7 +1,7 @@
 // Fill these in after you create your Supabase project (Project settings > API).
 // The anon key is safe to publish: row-level security makes the menu tables read-only.
 window.RATE_CONFIG = {
-  supabaseUrl: "https://github.com/EmmaHaswell/rATE/edit/main/config.js",          // e.g. https://abcdxyz.supabase.co
+  supabaseUrl: "https://xiovnqvjwioksusgykbu.supabase.co",          // e.g. https://abcdxyz.supabase.co
   anonKey: "sb_publishable_CCW0ddeejiPXoxlrQhZWgA_BafGYW7w",              // the "anon public" key
   liveLocations: ["p1"],    // locations that use the live Jamix menu (p1 = Vail Commons)
   timeZone: "America/New_York"
